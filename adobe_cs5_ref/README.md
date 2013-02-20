@@ -1,0 +1,1 @@
+Downloaded from [http://www.adobe.com/devnet/photoshop/scripting.html](http://www.adobe.com/devnet/photoshop/scripting.html).
